@@ -1,0 +1,74 @@
+{
+    "name": "ActionButtons",
+    "maps": [
+        {
+            "name": "ColorChange",
+            "id": "5d377fad-be45-44e3-a3a3-7aa402d8b6f5",
+            "actions": [
+                {
+                    "name": "GripPress",
+                    "type": "Value",
+                    "id": "07cc4c72-b2cc-4d5d-ba28-c3c6986e8fe1",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "NavigateX",
+                    "type": "Value",
+                    "id": "188cfadb-dd72-457b-bf3a-9c0c15ff6ac8",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "TriggerPress",
+                    "type": "Button",
+                    "id": "a123fce9-8e21-4c08-893a-6cb6c7e7b73c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f12549f2-3730-48c5-939d-44e2c694d3fc",
+                    "path": "<XRController>{RightHand}/grip",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GripPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f5cc7021-a9fb-4ab3-90ca-ffcf024ea997",
+                    "path": "<XRController>{RightHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NavigateX",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c1a5b642-f5fc-49e4-b4b9-a48de51745f3",
+                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
