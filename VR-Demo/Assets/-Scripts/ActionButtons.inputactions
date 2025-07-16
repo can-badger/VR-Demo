@@ -31,6 +31,33 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Turn",
+                    "type": "Value",
+                    "id": "8a2d8bd9-45c3-4614-bfc4-b88083b52199",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "UI_Point",
+                    "type": "Value",
+                    "id": "0b903485-16fe-4b02-b4ee-88b09a3807ae",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "UI_Click",
+                    "type": "Button",
+                    "id": "63774502-616d-4740-a9f6-da61caaa1500",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -64,6 +91,39 @@
                     "processors": "",
                     "groups": "",
                     "action": "TriggerPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cdb3ac00-a5fb-48f5-b0f1-1d81e80e4337",
+                    "path": "<XRController>{RightHand}/thumbstick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Turn",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "89e3c44b-297e-4996-a46a-6a299255413b",
+                    "path": "<XRController>{RightHand}/pointerPosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UI_Point",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ceb45b25-4089-489a-9845-bc992f3a69ae",
+                    "path": "<XRController>{RightHand}/triggerPressed ",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "UI_Click",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

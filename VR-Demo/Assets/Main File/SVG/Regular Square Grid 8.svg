@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3000 3000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #232323;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #f9f9f9;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="3000" height="3000"/>
+    </clipPath>
+  </defs>
+  <g class="cls-4">
+    <rect class="cls-3" width="3000" height="3000"/>
+    <g>
+      <g>
+        <g>
+          <circle class="cls-2" r="5"/>
+          <circle class="cls-2" cy="120" r="5"/>
+          <circle class="cls-2" cx="120" r="5"/>
+          <circle class="cls-2" cx="120" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" r="5"/>
+          <circle class="cls-2" cx="240" cy="120" r="5"/>
+          <circle class="cls-2" cx="360" r="5"/>
+          <circle class="cls-2" cx="360" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" r="5"/>
+          <circle class="cls-2" cx="480" cy="120" r="5"/>
+          <circle class="cls-2" cx="600" r="5"/>
+          <circle class="cls-2" cx="600" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" r="5"/>
+          <circle class="cls-2" cx="720" cy="120" r="5"/>
+          <circle class="cls-2" cx="840" r="5"/>
+          <circle class="cls-2" cx="840" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" r="5"/>
+          <circle class="cls-2" cx="960" cy="120" r="5"/>
+          <circle class="cls-2" cx="1080" r="5"/>
+          <circle class="cls-2" cx="1080" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" r="5"/>
+          <circle class="cls-2" cx="1200" cy="120" r="5"/>
+          <circle class="cls-2" cx="1320" r="5"/>
+          <circle class="cls-2" cx="1320" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" r="5"/>
+          <circle class="cls-2" cx="1440" cy="120" r="5"/>
+          <circle class="cls-2" cx="1560" r="5"/>
+          <circle class="cls-2" cx="1560" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" r="5"/>
+          <circle class="cls-2" cx="1680" cy="120" r="5"/>
+          <circle class="cls-2" cx="1800" r="5"/>
+          <circle class="cls-2" cx="1800" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" r="5"/>
+          <circle class="cls-2" cx="1920" cy="120" r="5"/>
+          <circle class="cls-2" cx="2040" r="5"/>
+          <circle class="cls-2" cx="2040" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" r="5"/>
+          <circle class="cls-2" cx="2160" cy="120" r="5"/>
+          <circle class="cls-2" cx="2280" r="5"/>
+          <circle class="cls-2" cx="2280" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" r="5"/>
+          <circle class="cls-2" cx="2400" cy="120" r="5"/>
+          <circle class="cls-2" cx="2520" r="5"/>
+          <circle class="cls-2" cx="2520" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" r="5"/>
+          <circle class="cls-2" cx="2640" cy="120" r="5"/>
+          <circle class="cls-2" cx="2760" r="5"/>
+          <circle class="cls-2" cx="2760" cy="120" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" r="5"/>
+          <circle class="cls-2" cx="2880" cy="120" r="5"/>
+          <circle class="cls-2" cx="3000" r="5"/>
+          <circle class="cls-2" cx="3000" cy="120" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="240" r="5"/>
+          <circle class="cls-2" cy="360" r="5"/>
+          <circle class="cls-2" cx="120" cy="240" r="5"/>
+          <circle class="cls-2" cx="120" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="240" r="5"/>
+          <circle class="cls-2" cx="240" cy="360" r="5"/>
+          <circle class="cls-2" cx="360" cy="240" r="5"/>
+          <circle class="cls-2" cx="360" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="240" r="5"/>
+          <circle class="cls-2" cx="480" cy="360" r="5"/>
+          <circle class="cls-2" cx="600" cy="240" r="5"/>
+          <circle class="cls-2" cx="600" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="240" r="5"/>
+          <circle class="cls-2" cx="720" cy="360" r="5"/>
+          <circle class="cls-2" cx="840" cy="240" r="5"/>
+          <circle class="cls-2" cx="840" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="240" r="5"/>
+          <circle class="cls-2" cx="960" cy="360" r="5"/>
+          <circle class="cls-2" cx="1080" cy="240" r="5"/>
+          <circle class="cls-2" cx="1080" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="240" r="5"/>
+          <circle class="cls-2" cx="1200" cy="360" r="5"/>
+          <circle class="cls-2" cx="1320" cy="240" r="5"/>
+          <circle class="cls-2" cx="1320" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="240" r="5"/>
+          <circle class="cls-2" cx="1440" cy="360" r="5"/>
+          <circle class="cls-2" cx="1560" cy="240" r="5"/>
+          <circle class="cls-2" cx="1560" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="240" r="5"/>
+          <circle class="cls-2" cx="1680" cy="360" r="5"/>
+          <circle class="cls-2" cx="1800" cy="240" r="5"/>
+          <circle class="cls-2" cx="1800" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="240" r="5"/>
+          <circle class="cls-2" cx="1920" cy="360" r="5"/>
+          <circle class="cls-2" cx="2040" cy="240" r="5"/>
+          <circle class="cls-2" cx="2040" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="240" r="5"/>
+          <circle class="cls-2" cx="2160" cy="360" r="5"/>
+          <circle class="cls-2" cx="2280" cy="240" r="5"/>
+          <circle class="cls-2" cx="2280" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="240" r="5"/>
+          <circle class="cls-2" cx="2400" cy="360" r="5"/>
+          <circle class="cls-2" cx="2520" cy="240" r="5"/>
+          <circle class="cls-2" cx="2520" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="240" r="5"/>
+          <circle class="cls-2" cx="2640" cy="360" r="5"/>
+          <circle class="cls-2" cx="2760" cy="240" r="5"/>
+          <circle class="cls-2" cx="2760" cy="360" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="240" r="5"/>
+          <circle class="cls-2" cx="2880" cy="360" r="5"/>
+          <circle class="cls-2" cx="3000" cy="240" r="5"/>
+          <circle class="cls-2" cx="3000" cy="360" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="480" r="5"/>
+          <circle class="cls-2" cy="600" r="5"/>
+          <circle class="cls-2" cx="120" cy="480" r="5"/>
+          <circle class="cls-2" cx="120" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="480" r="5"/>
+          <circle class="cls-2" cx="240" cy="600" r="5"/>
+          <circle class="cls-2" cx="360" cy="480" r="5"/>
+          <circle class="cls-2" cx="360" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="480" r="5"/>
+          <circle class="cls-2" cx="480" cy="600" r="5"/>
+          <circle class="cls-2" cx="600" cy="480" r="5"/>
+          <circle class="cls-2" cx="600" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="480" r="5"/>
+          <circle class="cls-2" cx="720" cy="600" r="5"/>
+          <circle class="cls-2" cx="840" cy="480" r="5"/>
+          <circle class="cls-2" cx="840" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="480" r="5"/>
+          <circle class="cls-2" cx="960" cy="600" r="5"/>
+          <circle class="cls-2" cx="1080" cy="480" r="5"/>
+          <circle class="cls-2" cx="1080" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="480" r="5"/>
+          <circle class="cls-2" cx="1200" cy="600" r="5"/>
+          <circle class="cls-2" cx="1320" cy="480" r="5"/>
+          <circle class="cls-2" cx="1320" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="480" r="5"/>
+          <circle class="cls-2" cx="1440" cy="600" r="5"/>
+          <circle class="cls-2" cx="1560" cy="480" r="5"/>
+          <circle class="cls-2" cx="1560" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="480" r="5"/>
+          <circle class="cls-2" cx="1680" cy="600" r="5"/>
+          <circle class="cls-2" cx="1800" cy="480" r="5"/>
+          <circle class="cls-2" cx="1800" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="480" r="5"/>
+          <circle class="cls-2" cx="1920" cy="600" r="5"/>
+          <circle class="cls-2" cx="2040" cy="480" r="5"/>
+          <circle class="cls-2" cx="2040" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="480" r="5"/>
+          <circle class="cls-2" cx="2160" cy="600" r="5"/>
+          <circle class="cls-2" cx="2280" cy="480" r="5"/>
+          <circle class="cls-2" cx="2280" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="480" r="5"/>
+          <circle class="cls-2" cx="2400" cy="600" r="5"/>
+          <circle class="cls-2" cx="2520" cy="480" r="5"/>
+          <circle class="cls-2" cx="2520" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="480" r="5"/>
+          <circle class="cls-2" cx="2640" cy="600" r="5"/>
+          <circle class="cls-2" cx="2760" cy="480" r="5"/>
+          <circle class="cls-2" cx="2760" cy="600" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="480" r="5"/>
+          <circle class="cls-2" cx="2880" cy="600" r="5"/>
+          <circle class="cls-2" cx="3000" cy="480" r="5"/>
+          <circle class="cls-2" cx="3000" cy="600" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="720" r="5"/>
+          <circle class="cls-2" cy="840" r="5"/>
+          <circle class="cls-2" cx="120" cy="720" r="5"/>
+          <circle class="cls-2" cx="120" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="720" r="5"/>
+          <circle class="cls-2" cx="240" cy="840" r="5"/>
+          <circle class="cls-2" cx="360" cy="720" r="5"/>
+          <circle class="cls-2" cx="360" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="720" r="5"/>
+          <circle class="cls-2" cx="480" cy="840" r="5"/>
+          <circle class="cls-2" cx="600" cy="720" r="5"/>
+          <circle class="cls-2" cx="600" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="720" r="5"/>
+          <circle class="cls-2" cx="720" cy="840" r="5"/>
+          <circle class="cls-2" cx="840" cy="720" r="5"/>
+          <circle class="cls-2" cx="840" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="720" r="5"/>
+          <circle class="cls-2" cx="960" cy="840" r="5"/>
+          <circle class="cls-2" cx="1080" cy="720" r="5"/>
+          <circle class="cls-2" cx="1080" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="720" r="5"/>
+          <circle class="cls-2" cx="1200" cy="840" r="5"/>
+          <circle class="cls-2" cx="1320" cy="720" r="5"/>
+          <circle class="cls-2" cx="1320" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="720" r="5"/>
+          <circle class="cls-2" cx="1440" cy="840" r="5"/>
+          <circle class="cls-2" cx="1560" cy="720" r="5"/>
+          <circle class="cls-2" cx="1560" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="720" r="5"/>
+          <circle class="cls-2" cx="1680" cy="840" r="5"/>
+          <circle class="cls-2" cx="1800" cy="720" r="5"/>
+          <circle class="cls-2" cx="1800" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="720" r="5"/>
+          <circle class="cls-2" cx="1920" cy="840" r="5"/>
+          <circle class="cls-2" cx="2040" cy="720" r="5"/>
+          <circle class="cls-2" cx="2040" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="720" r="5"/>
+          <circle class="cls-2" cx="2160" cy="840" r="5"/>
+          <circle class="cls-2" cx="2280" cy="720" r="5"/>
+          <circle class="cls-2" cx="2280" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="720" r="5"/>
+          <circle class="cls-2" cx="2400" cy="840" r="5"/>
+          <circle class="cls-2" cx="2520" cy="720" r="5"/>
+          <circle class="cls-2" cx="2520" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="720" r="5"/>
+          <circle class="cls-2" cx="2640" cy="840" r="5"/>
+          <circle class="cls-2" cx="2760" cy="720" r="5"/>
+          <circle class="cls-2" cx="2760" cy="840" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="720" r="5"/>
+          <circle class="cls-2" cx="2880" cy="840" r="5"/>
+          <circle class="cls-2" cx="3000" cy="720" r="5"/>
+          <circle class="cls-2" cx="3000" cy="840" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="960" r="5"/>
+          <circle class="cls-2" cy="1080" r="5"/>
+          <circle class="cls-2" cx="120" cy="960" r="5"/>
+          <circle class="cls-2" cx="120" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="960" r="5"/>
+          <circle class="cls-2" cx="240" cy="1080" r="5"/>
+          <circle class="cls-2" cx="360" cy="960" r="5"/>
+          <circle class="cls-2" cx="360" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="960" r="5"/>
+          <circle class="cls-2" cx="480" cy="1080" r="5"/>
+          <circle class="cls-2" cx="600" cy="960" r="5"/>
+          <circle class="cls-2" cx="600" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="960" r="5"/>
+          <circle class="cls-2" cx="720" cy="1080" r="5"/>
+          <circle class="cls-2" cx="840" cy="960" r="5"/>
+          <circle class="cls-2" cx="840" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="960" r="5"/>
+          <circle class="cls-2" cx="960" cy="1080" r="5"/>
+          <circle class="cls-2" cx="1080" cy="960" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="960" r="5"/>
+          <circle class="cls-2" cx="1200" cy="1080" r="5"/>
+          <circle class="cls-2" cx="1320" cy="960" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="960" r="5"/>
+          <circle class="cls-2" cx="1440" cy="1080" r="5"/>
+          <circle class="cls-2" cx="1560" cy="960" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="960" r="5"/>
+          <circle class="cls-2" cx="1680" cy="1080" r="5"/>
+          <circle class="cls-2" cx="1800" cy="960" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="960" r="5"/>
+          <circle class="cls-2" cx="1920" cy="1080" r="5"/>
+          <circle class="cls-2" cx="2040" cy="960" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="960" r="5"/>
+          <circle class="cls-2" cx="2160" cy="1080" r="5"/>
+          <circle class="cls-2" cx="2280" cy="960" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="960" r="5"/>
+          <circle class="cls-2" cx="2400" cy="1080" r="5"/>
+          <circle class="cls-2" cx="2520" cy="960" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="960" r="5"/>
+          <circle class="cls-2" cx="2640" cy="1080" r="5"/>
+          <circle class="cls-2" cx="2760" cy="960" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1080" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="960" r="5"/>
+          <circle class="cls-2" cx="2880" cy="1080" r="5"/>
+          <circle class="cls-2" cx="3000" cy="960" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1080" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="1200" r="5"/>
+          <circle class="cls-2" cy="1320" r="5"/>
+          <circle class="cls-2" cx="120" cy="1200" r="5"/>
+          <circle class="cls-2" cx="120" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="1200" r="5"/>
+          <circle class="cls-2" cx="240" cy="1320" r="5"/>
+          <circle class="cls-2" cx="360" cy="1200" r="5"/>
+          <circle class="cls-2" cx="360" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="1200" r="5"/>
+          <circle class="cls-2" cx="480" cy="1320" r="5"/>
+          <circle class="cls-2" cx="600" cy="1200" r="5"/>
+          <circle class="cls-2" cx="600" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="1200" r="5"/>
+          <circle class="cls-2" cx="720" cy="1320" r="5"/>
+          <circle class="cls-2" cx="840" cy="1200" r="5"/>
+          <circle class="cls-2" cx="840" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="1200" r="5"/>
+          <circle class="cls-2" cx="960" cy="1320" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1200" cy="1320" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1440" cy="1320" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1680" cy="1320" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="1200" r="5"/>
+          <circle class="cls-2" cx="1920" cy="1320" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2160" cy="1320" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2400" cy="1320" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2640" cy="1320" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1320" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="1200" r="5"/>
+          <circle class="cls-2" cx="2880" cy="1320" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1200" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1320" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="1440" r="5"/>
+          <circle class="cls-2" cy="1560" r="5"/>
+          <circle class="cls-2" cx="120" cy="1440" r="5"/>
+          <circle class="cls-2" cx="120" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="1440" r="5"/>
+          <circle class="cls-2" cx="240" cy="1560" r="5"/>
+          <circle class="cls-2" cx="360" cy="1440" r="5"/>
+          <circle class="cls-2" cx="360" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="1440" r="5"/>
+          <circle class="cls-2" cx="480" cy="1560" r="5"/>
+          <circle class="cls-2" cx="600" cy="1440" r="5"/>
+          <circle class="cls-2" cx="600" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="1440" r="5"/>
+          <circle class="cls-2" cx="720" cy="1560" r="5"/>
+          <circle class="cls-2" cx="840" cy="1440" r="5"/>
+          <circle class="cls-2" cx="840" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="1440" r="5"/>
+          <circle class="cls-2" cx="960" cy="1560" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1200" cy="1560" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1440" cy="1560" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1680" cy="1560" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="1440" r="5"/>
+          <circle class="cls-2" cx="1920" cy="1560" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2160" cy="1560" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2400" cy="1560" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2640" cy="1560" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1560" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="1440" r="5"/>
+          <circle class="cls-2" cx="2880" cy="1560" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1440" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1560" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="1680" r="5"/>
+          <circle class="cls-2" cy="1800" r="5"/>
+          <circle class="cls-2" cx="120" cy="1680" r="5"/>
+          <circle class="cls-2" cx="120" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="1680" r="5"/>
+          <circle class="cls-2" cx="240" cy="1800" r="5"/>
+          <circle class="cls-2" cx="360" cy="1680" r="5"/>
+          <circle class="cls-2" cx="360" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="1680" r="5"/>
+          <circle class="cls-2" cx="480" cy="1800" r="5"/>
+          <circle class="cls-2" cx="600" cy="1680" r="5"/>
+          <circle class="cls-2" cx="600" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="1680" r="5"/>
+          <circle class="cls-2" cx="720" cy="1800" r="5"/>
+          <circle class="cls-2" cx="840" cy="1680" r="5"/>
+          <circle class="cls-2" cx="840" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="1680" r="5"/>
+          <circle class="cls-2" cx="960" cy="1800" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1200" cy="1800" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1440" cy="1800" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1680" cy="1800" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="1680" r="5"/>
+          <circle class="cls-2" cx="1920" cy="1800" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2160" cy="1800" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2400" cy="1800" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2640" cy="1800" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1800" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="1680" r="5"/>
+          <circle class="cls-2" cx="2880" cy="1800" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1680" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1800" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="1920" r="5"/>
+          <circle class="cls-2" cy="2040" r="5"/>
+          <circle class="cls-2" cx="120" cy="1920" r="5"/>
+          <circle class="cls-2" cx="120" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="1920" r="5"/>
+          <circle class="cls-2" cx="240" cy="2040" r="5"/>
+          <circle class="cls-2" cx="360" cy="1920" r="5"/>
+          <circle class="cls-2" cx="360" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="1920" r="5"/>
+          <circle class="cls-2" cx="480" cy="2040" r="5"/>
+          <circle class="cls-2" cx="600" cy="1920" r="5"/>
+          <circle class="cls-2" cx="600" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="1920" r="5"/>
+          <circle class="cls-2" cx="720" cy="2040" r="5"/>
+          <circle class="cls-2" cx="840" cy="1920" r="5"/>
+          <circle class="cls-2" cx="840" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="1920" r="5"/>
+          <circle class="cls-2" cx="960" cy="2040" r="5"/>
+          <circle class="cls-2" cx="1080" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1200" cy="2040" r="5"/>
+          <circle class="cls-2" cx="1320" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1440" cy="2040" r="5"/>
+          <circle class="cls-2" cx="1560" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1680" cy="2040" r="5"/>
+          <circle class="cls-2" cx="1800" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="1920" r="5"/>
+          <circle class="cls-2" cx="1920" cy="2040" r="5"/>
+          <circle class="cls-2" cx="2040" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2160" cy="2040" r="5"/>
+          <circle class="cls-2" cx="2280" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2400" cy="2040" r="5"/>
+          <circle class="cls-2" cx="2520" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2640" cy="2040" r="5"/>
+          <circle class="cls-2" cx="2760" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2040" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="1920" r="5"/>
+          <circle class="cls-2" cx="2880" cy="2040" r="5"/>
+          <circle class="cls-2" cx="3000" cy="1920" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2040" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="2160" r="5"/>
+          <circle class="cls-2" cy="2280" r="5"/>
+          <circle class="cls-2" cx="120" cy="2160" r="5"/>
+          <circle class="cls-2" cx="120" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="2160" r="5"/>
+          <circle class="cls-2" cx="240" cy="2280" r="5"/>
+          <circle class="cls-2" cx="360" cy="2160" r="5"/>
+          <circle class="cls-2" cx="360" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="2160" r="5"/>
+          <circle class="cls-2" cx="480" cy="2280" r="5"/>
+          <circle class="cls-2" cx="600" cy="2160" r="5"/>
+          <circle class="cls-2" cx="600" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="2160" r="5"/>
+          <circle class="cls-2" cx="720" cy="2280" r="5"/>
+          <circle class="cls-2" cx="840" cy="2160" r="5"/>
+          <circle class="cls-2" cx="840" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="2160" r="5"/>
+          <circle class="cls-2" cx="960" cy="2280" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1200" cy="2280" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1440" cy="2280" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1680" cy="2280" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="2160" r="5"/>
+          <circle class="cls-2" cx="1920" cy="2280" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2160" cy="2280" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2400" cy="2280" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2640" cy="2280" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2280" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="2160" r="5"/>
+          <circle class="cls-2" cx="2880" cy="2280" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2160" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2280" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="2400" r="5"/>
+          <circle class="cls-2" cy="2520" r="5"/>
+          <circle class="cls-2" cx="120" cy="2400" r="5"/>
+          <circle class="cls-2" cx="120" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="2400" r="5"/>
+          <circle class="cls-2" cx="240" cy="2520" r="5"/>
+          <circle class="cls-2" cx="360" cy="2400" r="5"/>
+          <circle class="cls-2" cx="360" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="2400" r="5"/>
+          <circle class="cls-2" cx="480" cy="2520" r="5"/>
+          <circle class="cls-2" cx="600" cy="2400" r="5"/>
+          <circle class="cls-2" cx="600" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="2400" r="5"/>
+          <circle class="cls-2" cx="720" cy="2520" r="5"/>
+          <circle class="cls-2" cx="840" cy="2400" r="5"/>
+          <circle class="cls-2" cx="840" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="2400" r="5"/>
+          <circle class="cls-2" cx="960" cy="2520" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1200" cy="2520" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1440" cy="2520" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1680" cy="2520" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="2400" r="5"/>
+          <circle class="cls-2" cx="1920" cy="2520" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2160" cy="2520" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2400" cy="2520" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2640" cy="2520" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2520" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="2400" r="5"/>
+          <circle class="cls-2" cx="2880" cy="2520" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2400" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2520" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="2640" r="5"/>
+          <circle class="cls-2" cy="2760" r="5"/>
+          <circle class="cls-2" cx="120" cy="2640" r="5"/>
+          <circle class="cls-2" cx="120" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="2640" r="5"/>
+          <circle class="cls-2" cx="240" cy="2760" r="5"/>
+          <circle class="cls-2" cx="360" cy="2640" r="5"/>
+          <circle class="cls-2" cx="360" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="2640" r="5"/>
+          <circle class="cls-2" cx="480" cy="2760" r="5"/>
+          <circle class="cls-2" cx="600" cy="2640" r="5"/>
+          <circle class="cls-2" cx="600" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="2640" r="5"/>
+          <circle class="cls-2" cx="720" cy="2760" r="5"/>
+          <circle class="cls-2" cx="840" cy="2640" r="5"/>
+          <circle class="cls-2" cx="840" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="2640" r="5"/>
+          <circle class="cls-2" cx="960" cy="2760" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1200" cy="2760" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1440" cy="2760" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1680" cy="2760" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="2640" r="5"/>
+          <circle class="cls-2" cx="1920" cy="2760" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2160" cy="2760" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2400" cy="2760" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2640" cy="2760" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2760" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="2640" r="5"/>
+          <circle class="cls-2" cx="2880" cy="2760" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2640" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2760" r="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle class="cls-2" cy="2880" r="5"/>
+          <circle class="cls-2" cy="3000" r="5"/>
+          <circle class="cls-2" cx="120" cy="2880" r="5"/>
+          <circle class="cls-2" cx="120" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="240" cy="2880" r="5"/>
+          <circle class="cls-2" cx="240" cy="3000" r="5"/>
+          <circle class="cls-2" cx="360" cy="2880" r="5"/>
+          <circle class="cls-2" cx="360" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="480" cy="2880" r="5"/>
+          <circle class="cls-2" cx="480" cy="3000" r="5"/>
+          <circle class="cls-2" cx="600" cy="2880" r="5"/>
+          <circle class="cls-2" cx="600" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="720" cy="2880" r="5"/>
+          <circle class="cls-2" cx="720" cy="3000" r="5"/>
+          <circle class="cls-2" cx="840" cy="2880" r="5"/>
+          <circle class="cls-2" cx="840" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="960" cy="2880" r="5"/>
+          <circle class="cls-2" cx="960" cy="3000" r="5"/>
+          <circle class="cls-2" cx="1080" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1080" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1200" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1200" cy="3000" r="5"/>
+          <circle class="cls-2" cx="1320" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1320" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1440" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1440" cy="3000" r="5"/>
+          <circle class="cls-2" cx="1560" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1560" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1680" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1680" cy="3000" r="5"/>
+          <circle class="cls-2" cx="1800" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1800" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="1920" cy="2880" r="5"/>
+          <circle class="cls-2" cx="1920" cy="3000" r="5"/>
+          <circle class="cls-2" cx="2040" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2040" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2160" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2160" cy="3000" r="5"/>
+          <circle class="cls-2" cx="2280" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2280" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2400" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2400" cy="3000" r="5"/>
+          <circle class="cls-2" cx="2520" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2520" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2640" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2640" cy="3000" r="5"/>
+          <circle class="cls-2" cx="2760" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2760" cy="3000" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="2880" cy="2880" r="5"/>
+          <circle class="cls-2" cx="2880" cy="3000" r="5"/>
+          <circle class="cls-2" cx="3000" cy="2880" r="5"/>
+          <circle class="cls-2" cx="3000" cy="3000" r="5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
